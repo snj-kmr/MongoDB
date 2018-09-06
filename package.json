@@ -1,0 +1,26 @@
+{
+  "name": "mongodb-playlist",
+  "version": "1.0.0",
+  "description": "This playlist consist of files for beginners to learn mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snj-kmr/mongodb.git"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "sanjay kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snj-kmr/mongodb/issues"
+  },
+  "homepage": "https://github.com/snj-kmr/mongodb#readme",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "mongoose": "^5.2.13"
+  }
+}
